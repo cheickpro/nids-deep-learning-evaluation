@@ -57,8 +57,6 @@ The key contributions of this work are:
 │       ├── rf_xgboost_unswnb15_binary.ipynb
 │       └── xgboost_unswnb15_multiclass.ipynb
 │
-├── results/
-│   ├── figures/                    # Confusion matrices, ROC curves, per-fold plots
 │   
 │
 ├── requirements.txt
